@@ -13,8 +13,7 @@ Este projeto faz parte de um teste para determinar conhecimento em IA usando vis
 Python 3.10.6,  Numpy, opencv 4.5.4 or opencv-python-headless 4.6.0.66, visual Code, ubuntu 22 
 
 ### Objetivo
-
-Com as imagens selecionadas exibir as seguintes infomrações:  
+Com as imagens selecionadas exibir as seguintes informações:  
    * 1. O número de marcações na primeira linha
    * 2. O número de marcações na primeira coluna
    * 3. O número de marcações na imagem
@@ -48,10 +47,6 @@ https://github.com/Juliano-Aragao
 ## Versionamento 
 
 * 0.1
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## Licensa 
 
