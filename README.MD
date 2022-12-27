@@ -14,13 +14,19 @@ Este projeto faz parte de um teste para determinar conhecimento em IA usando vis
 Python 3.10.6,  Numpy, opencv 4.5.4 or opencv-python-headless 4.6.0.66, visual Code, ubuntu 22 
 
 ## Os modulos utilizados foram: 
-* modeloagem de ROI -> para selecionar as áreas
+
+modelagem de ROI -> para selecionar as áreas
+
 thresh_l1 = img[00:20, 0:800]
+
 thresh_c1 = img[00:800, 0:40]
 
 *cv2.RETR_TREE;
+
 *cv2.CHAIN_APPROX_SIMPLE;
+
 *hieraquia = cv2.findContours(thresh, modo , metodo)
+
 *len
 
 ### Objetivo
