@@ -2,10 +2,6 @@
 
 ![logo](https://user-images.githubusercontent.com/65972745/209705812-b707ba23-4464-4720-bf95-496bf981f2a1.png)
 
-
-
-
-
 DCO - Detectar e contar objetos
 
 ## Descrição
@@ -22,6 +18,8 @@ Com as imagens selecionadas exibir as seguintes infomrações:
    * 1. O número de marcações na primeira linha
    * 2. O número de marcações na primeira coluna
    * 3. O número de marcações na imagem
+
+![card](https://user-images.githubusercontent.com/65972745/209705872-fda0ff08-89ad-47ea-82e7-1fcb2c4c3e5e.png)
 
 ### Instalação
 
