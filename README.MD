@@ -1,6 +1,6 @@
 # Projeto
 
-![card](https://user-images.githubusercontent.com/65972745/209704542-ad1f05eb-b692-4f1d-89fb-68376d726c44.png )  
+![card](https://user-images.githubusercontent.com/65972745/209704542-ad1f05eb-b692-4f1d-89fb-68376d726c44.png width="200" height="400" )  
 
 
 
