@@ -1,4 +1,7 @@
 # Projeto
+div align="center"
+![card](https://user-images.githubusercontent.com/65972745/209704542-ad1f05eb-b692-4f1d-89fb-68376d726c44.png) " width="0px" /
+/div
 
 DCO - Detectar e contar objetos
 
